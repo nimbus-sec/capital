@@ -5,6 +5,7 @@
 [![API Security Top 10](https://img.shields.io/badge/API%20Security-top%2010-blue)](https://github.com/OWASP/API-Security) 
 [![Vulnerable](https://img.shields.io/badge/Vulnerable-by%20design-blue)](https://github.com/Checkmarx/capital#quickstart) 
 [![license](https://img.shields.io/badge/license-AGPL%20V3-blue)](https://opensource.org/licenses/AGPL-3.0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnimbus-sec%2Fcapital.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnimbus-sec%2Fcapital?ref=badge_shield)
 
 Quick facts
 ----------
@@ -40,6 +41,9 @@ create and delete comments, follow other users, and more.
 <p align="center">
 <img src="postman/API%20endpoints.PNG#center" width="1000" height="850" />
 </p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnimbus-sec%2Fcapital.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnimbus-sec%2Fcapital?ref=badge_large)
 
 # Quickstart
 
